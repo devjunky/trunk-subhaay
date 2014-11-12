@@ -16,7 +16,7 @@ app.config(function ($routeProvider) {
 
         // route for the view1 page
         .when('/product', {
-            templateUrl: 'partials/productDescription.html',
+            templateUrl: 'partials/details.html',
             controller: 'productController'
         })
 
