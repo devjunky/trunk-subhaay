@@ -14,6 +14,12 @@ app.config(function ($routeProvider) {
             controller: 'productController'
         })
 
+        // route for the view1 page
+        .when('/product', {
+            templateUrl: 'partials/productDescription.html',
+            controller: 'productController'
+        })
+
         // route for the contact page
         .otherwise({redirectTo: '/home'});
 });
