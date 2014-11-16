@@ -15,9 +15,9 @@ app.config(function ($routeProvider) {
         })
 
         // route for the view1 page
-        .when('/product', {
+        .when('/product/:id', {
             templateUrl: 'partials/details.html',
-            controller: 'productController'
+            controller: 'detailController'
         })
 
         // route for the contact page

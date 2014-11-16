@@ -1,0 +1,41 @@
+document = ({"productName":"BMW I8 Concept", "category": "Sports", "imageUrl":"img/bmw_i8_concept.jpg",
+"productDescription":"The BMW i8 is ready to revolutionise its vehicle class. As the first sports car with the consumption and emission values of a compact car. The strength of the plug-in hybrid lies, among other factors, in the perfect synchronisation of electric motor and combustion engine, which makes itself apparent in maximum efficiency and dynamics on the road. The first sports car that even accelerates the zeitgeist.", "price":"45045", "comments" : [{"id":
+"1001", "commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5",
+"ratersName" : "Ramesh Babu", "ratedTimeStamp" : "11/10/2014"}, {"id": "1003", "commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" : "5.0", "ratersName" : "Sachin Tandu",
+"ratedTimeStamp" : "09/10/2014"}, {"id": "1004", "commentDescription" : "I always wanted a car like this and now i find. Happy Camper.", "rating" : "4.7", "ratersName" : "Scooby dodo", "ratedTimeStamp" : "11/19/2013"}, {"id": "1005",
+"commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can return it.",
+"rating" : "2.5", "ratersName" : "Mogambo", "ratedTimeStamp" : "06/11/2013"}, {"id": "1006", "commentDescription" :
+"Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Jodh Akbar", "ratedTimeStamp" :
+"07/18/2014"}]})
+
+document = ({"productName":"Porsche 911 GT3", "category": "Luxury", "imageUrl":"img/porsche_911_gt3.jpg",
+"productDescription":"The limit is apparently the most exhilarating place to be these days. The final square centimetres have yet to be explored here. This may be where others turn back but, for us, it is only just the beginning – the start of a journey towards new sporty destinations. Indeed, two hundredths of a second are worlds apart. So let’s get going. In the new Porsche 911 GT3.", "price":"25000", "comments" : [{"id": "1001", "commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5", "ratersName" : "Ramesh Babu", "ratedTimeStamp" : "11/10/2014"}, {"id": "1003", "commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" : "5.0", "ratersName" : "Sachin Tandu", "ratedTimeStamp" : "09/10/2014"}, {"id": "1004", "commentDescription" : "I always wanted a car like this and now i find. Happy Camper.", "rating" : "4.7", "ratersName" :
+"James Mobly", "ratedTimeStamp" : "11/19/2013"}, {"id": "1005", "commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can return it.", "rating" : "2.5", "ratersName" : "Chris Mathews", "ratedTimeStamp" : "06/11/2013"}, {"id": "1006", "commentDescription" : "Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Micheal Kelly", "ratedTimeStamp" : "07/18/2014"}]})
+
+document = ({"productName":"Maserati Grancabo", "category": "Sports",
+"imageUrl":"img/2012_maserati_grancabrio_sport.jpg", "productDescription":"The Maserati GranTurismo is a two-door, four-seat coupé produced by the Italian car manufacturer Maserati. It shares the platform of the Maserati Quattroporte V and parts of the Ferrari 599 GTB and Scaglietti.", "price":"75000", "comments" : [{"id": "1001", "commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5", "ratersName" : "Dave Godham", "ratedTimeStamp" : "11/10/2014"}, {"id": "1003", "commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" : "5.0", "ratersName" : "Kile Paterson", "ratedTimeStamp" : "09/10/2014"}, {"id": "1004", "commentDescription" : "I always wanted a car like this and now i find. Happy Camper.", "rating" : "4.7", "ratersName" : "The Guy", "ratedTimeStamp" : "11/19/2013"}, {"id": "1005", "commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can return it.", "rating" : "2.5", "ratersName" : "Mark Sanchez", "ratedTimeStamp" : "06/11/2013"}, {"id": "1006", "commentDescription" : "Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Jodh Akbar", "ratedTimeStamp" : "07/18/2014"}]})
+
+document = ({"productName":"Rolls Royce LX", "category": "Luxury", "imageUrl":"img/rolls_royce_39.jpg", "productDescription":"Designed without compromise, the Phantom family is the result of complete creative and engineering freedom. Created with the desire to build the best car in the world, Phantom combines compelling charisma with design cues that are unmistakably Rolls-Royce.", "price":"35045", "comments" : [{"id": "1001", "commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5", "ratersName" : "Aron Rodgers", "ratedTimeStamp" : "11/10/2014"}, {"id": "1003", "commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" : "5.0", "ratersName" : "Eli Manning", "ratedTimeStamp" : "09/10/2014"}, {"id": "1004", "commentDescription" : "I always wanted a car like this and now i find. Happy Camper.", "rating" : "4.7", "ratersName" : "Kelly Clarkson", "ratedTimeStamp" : "11/19/2013"}, {"id": "1005", "commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can return it.", "rating" : "2.5", "ratersName" : "Mogambo", "ratedTimeStamp" : "06/11/2013"}, {"id": "1006", "commentDescription" : "Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Jodh Akbar", "ratedTimeStamp" : "07/18/2014"}]})
+
+document = ({"productName":"Lamborghini GT", "category": "Sports", "imageUrl":"img/lamborghini_gt.jpg", "productDescription":"After assembling a strong team to built the GTV prototype, Ferruccio Lamborghini launched the production version just five months later. These changes came from a wealth of talent including Giotto Bizzarrini, GianPaolo Dallara and Franco Scaglione who worked styling both the production and prototype versions of the 350. Read more at http://www.supercars.net/cars/939.html#iKAlK3gz5bYgLU1v.99", "price":"55000", "comments" : [{"id": "1001", "commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5", "ratersName" : "Ramesh Babu", "ratedTimeStamp" : "11/10/2014"}, {"id": "1003", "commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" : "5.0", "ratersName" : "Sachin Tandu", "ratedTimeStamp" : "09/10/2014"}, {"id": "1004", "commentDescription" : "I always wanted a car like this and now i find. Happy Camper.",
+"rating" : "4.7", "ratersName" : "Saun Badiye", "ratedTimeStamp" : "11/19/2013"}, {"id": "1005", "commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can return it.", "rating" : "2.5",
+"ratersName" : "John Don", "ratedTimeStamp" : "06/11/2013"}, {"id": "1006", "commentDescription" : "Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Matt Demon", "ratedTimeStamp" : "07/18/2014"}]})
+
+
+
+document = ({"commentDescription" : "This car flies like a rocket. The model is slick and sexy.", "rating" : "4.5",
+"ratersName" : "Ramesh Babu", "ratedTimeStamp" : "11/10/2014"})
+
+document = ({"commentDescription" : "Awesome car. Loved the pickup and the torque. Not good gas mileage", "rating" :
+"5.0", "ratersName" : "Sachin Tandu", "ratedTimeStamp" : "09/10/2014"})
+
+document = ({"commentDescription" : "I always wanted a car like this and now i find. Happy Camper.", "rating" : "4.7",
+"ratersName" : "Scooby dodo", "ratedTimeStamp" : "11/19/2013"})
+
+document = ({"commentDescription" : "Not so good compared to Lambo or Ferarri. Looks is not bad tough. I wish i can
+return it.", "rating" : "2.5", "ratersName" : "Mogambo", "ratedTimeStamp" : "06/11/2013"})
+
+document = ({"commentDescription" : "Torque is not bad but the pickup sucks.", "rating" : "3.5", "ratersName" : "Jodh
+Akbar", "ratedTimeStamp" : "07/18/2014"})
+
+

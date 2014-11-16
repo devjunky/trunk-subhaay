@@ -173,7 +173,7 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <copy file="${project.build.directory}/${project.build.finalName}.war" todir="C:\Users\Anupam\apache-tomcat-7.0.34\webapps" failonerror="false" />
+                                <copy file="${project.build.directory}/${project.build.finalName}.war" todir="/usr/local/tomcat/apache-tomcat-7.0.54/webapps" failonerror="false" />
                             </tasks>
                         </configuration>
                     </execution>
